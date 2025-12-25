@@ -26,6 +26,7 @@ main(void)
 	
 	/* Initialize largest num to first element first */
 	largest_num = array[0];
+	second_largest_num = array[1];
 	
 	/* Loop through the array */
 	for (index = 0; index < arr_size; index++)
